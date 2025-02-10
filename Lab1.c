@@ -1,5 +1,5 @@
 int LEDs = 2;
-int swLED = 22;
+int swLED = 13;
 
 void setup() {
 
@@ -12,9 +12,9 @@ void loop() {
 }
 
 void LED() {
-  if (digitalRead(swLED) == LOW) {
-    digitalWrite(RED, LOW);
+  if (digitalRead(swLED) == HIGH) {
+    digitalWrite(LEDs, LOW);}
   else {
-    digitalWrite(RED, HIGH);
+    digitalWrite(LEDs, HIGH);
   }
 }
