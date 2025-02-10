@@ -1,16 +1,13 @@
-int LEDs = 2;
+int LEDs = 25;
 
 void setup() {
 
-pinMode(LEDs, OUTPUT);
+  pinMode(LEDs, OUTPUT);
 
 }
 void loop() {
-
-LED();
-
+  LED();
 }
-
 void LED() {
   digitalWrite(LEDs, HIGH);
   delay(1000);
