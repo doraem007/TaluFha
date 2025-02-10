@@ -28,7 +28,7 @@ GOOD LUCK!!
 -
 ## PinOut ESP32
 
-![App Screenshot](https://public.nareubad.work/api/public/dl/auK9dbB7?inline=true)
+![App Screenshot](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/08/ESP32-DOIT-DEVKIT-V1-Board-Pinout-36-GPIOs-updated.jpg?resize=750%2C538&quality=100&strip=all&ssl=1)
 
 ## PinOut Pi Pico
 
