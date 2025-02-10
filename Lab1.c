@@ -1,15 +1,20 @@
-int LEDs = 25;
+int LEDs = 2;
+int swLED = 22;
 
 void setup() {
 
   pinMode(LEDs, OUTPUT);
+  pinMode(swLED, INPUT_PULLUP);
 
 }
 void loop() {
   LED();
 }
+
 void LED() {
-  digitalWrite(LEDs, HIGH);
-  delay(100);
-  digitalWrite(LEDs, LOW);
+  if (digitalRead(swLED) == LOW) {
+    digitalWrite(RED, LOW);
+  else {
+    digitalWrite(RED, HIGH);
+  }
 }
