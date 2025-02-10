@@ -36,3 +36,8 @@ GOOD LUCK!!
 
 
 
+
+## License
+
+[PhotoESP32](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
+
