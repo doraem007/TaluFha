@@ -28,9 +28,13 @@ Breadboard
 
 GOOD LUCK!!
 -
-## PinOut ESP32
+## PinOut ESP32 micro usb
 
 ![App Screenshot](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/08/ESP32-DOIT-DEVKIT-V1-Board-Pinout-36-GPIOs-updated.jpg?resize=750%2C538&quality=100&strip=all&ssl=1)
+
+## PinOut ESP32 Type C
+
+![App Screenshot](https://public.nareubad.work/api/public/dl/M847WXKP?inline=true)
 
 ## PinOut Pi Pico
 
