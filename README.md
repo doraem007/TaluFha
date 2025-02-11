@@ -10,6 +10,8 @@ Bacis I/O
 Bacis Codeing
 
 Equipment
+
+ADD ESP32 : https://dl.espressif.com/dl/package_esp32_index.json
 -
 
 ESP32 or Pi Pico
